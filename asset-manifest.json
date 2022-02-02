@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mrizwanashiq.github.io/static/css/main.65f0c2da.chunk.css",
+    "main.js": "/mrizwanashiq.github.io/static/js/main.16253be7.chunk.js",
+    "main.js.map": "/mrizwanashiq.github.io/static/js/main.16253be7.chunk.js.map",
+    "runtime-main.js": "/mrizwanashiq.github.io/static/js/runtime-main.a1f7ef11.js",
+    "runtime-main.js.map": "/mrizwanashiq.github.io/static/js/runtime-main.a1f7ef11.js.map",
+    "static/js/2.f3ebb985.chunk.js": "/mrizwanashiq.github.io/static/js/2.f3ebb985.chunk.js",
+    "static/js/2.f3ebb985.chunk.js.map": "/mrizwanashiq.github.io/static/js/2.f3ebb985.chunk.js.map",
+    "static/js/3.8d9e39f8.chunk.js": "/mrizwanashiq.github.io/static/js/3.8d9e39f8.chunk.js",
+    "static/js/3.8d9e39f8.chunk.js.map": "/mrizwanashiq.github.io/static/js/3.8d9e39f8.chunk.js.map",
+    "index.html": "/mrizwanashiq.github.io/index.html",
+    "static/css/main.65f0c2da.chunk.css.map": "/mrizwanashiq.github.io/static/css/main.65f0c2da.chunk.css.map",
+    "static/js/2.f3ebb985.chunk.js.LICENSE.txt": "/mrizwanashiq.github.io/static/js/2.f3ebb985.chunk.js.LICENSE.txt",
+    "static/media/52_in_2022.71d0aa59.md": "/mrizwanashiq.github.io/static/media/52_in_2022.71d0aa59.md",
+    "static/media/example.6b70b958.md": "/mrizwanashiq.github.io/static/media/example.6b70b958.md",
+    "static/media/resume.a1ebeff8.pdf": "/mrizwanashiq.github.io/static/media/resume.a1ebeff8.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f7ef11.js",
+    "static/js/2.f3ebb985.chunk.js",
+    "static/css/main.65f0c2da.chunk.css",
+    "static/js/main.16253be7.chunk.js"
+  ]
+}
